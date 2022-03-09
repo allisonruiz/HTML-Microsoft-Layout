@@ -1,6 +1,14 @@
+body {
+  text-align: center;
+}
+
 span {
   display: inline-block;
 }
+
+/* #pics span {
+  border: 1px solid black;
+} */
 /* span {
   display: inline-block;
   background-color: lightblue;
